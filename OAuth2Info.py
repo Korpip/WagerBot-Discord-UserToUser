@@ -1,0 +1,2 @@
+OTOKEN="YOUR OATH TOKEN HERE FOR DISCORD"
+bookiename = 'Pips'
